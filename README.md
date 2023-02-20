@@ -1,6 +1,6 @@
 # Pymaceuticals, Inc
 
-![](Pymaceuticals/Images/Laboratory.jpg))
+![](https://github.com/mugsiemx/matplotlib-challenge/blob/main/Pymaceuticals/Images/Laboratory.jpg)
 
 # A matplotlib challenge
 
@@ -22,16 +22,16 @@ Report and charting information
 - Bar and Pie Charts generated for total number of time points for all mice tested for each drug regimen throughout the study. Set of two each, one created with Pandas and one created with Matplotlib.
 
 Bar Chart created with Matplotlib
-![](Pymaceuticals/Images/mice_timepoint_numbers_pyplot.png) >
+![](https://github.com/mugsiemx/matplotlib-challenge/blob/main/Pymaceuticals/Images/mice_timepoint_numbers_pandas.png) >
 
 Bar Chart created with Pandas
-![](Pymaceuticals/Images/mice_timepoint_numbers_pandas.png >
+![](https://github.com/mugsiemx/matplotlib-challenge/blob/main/Pymaceuticals/Images/mice_timepoint_numbers_pyplot.png) >
 
 Pie Chart created with Matplotlib
-![](Pymaceuticals/Images/miceSex_pie_pyplot.png >
+![](https://github.com/mugsiemx/matplotlib-challenge/blob/main/Pymaceuticals/Images/miceSex_pie_pyplot.png) >
 
 Pie Chart created with Pandas
-![](Pymaceuticals/Images/miceSex_pie_pandas.png) >
+![](https://github.com/mugsiemx/matplotlib-challenge/blob/main/Pymaceuticals/Images/miceSex_pie_pandas.png) >
 
 - Calculate the final tumor volume of each mouse across four of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin. Then, calculate the quartiles and IQR, and determine if there are any potential outliers across all four treatment regimens. Use the following substeps:
   - Create a grouped DataFrame that shows the last (greatest) time point for each mouse. Merge this grouped DataFrame with the original cleaned DataFrame.
@@ -39,25 +39,25 @@ Pie Chart created with Pandas
   - Loop through each drug in the treatment list, locating the rows in the merged DataFrame that correspond to each treatment. Append the resulting final tumor volumes for each drug to the empty list.
   - Determine outliers by using the upper and lower bounds, and then print the results.
   - Using Matplotlib, generate a box plot that shows the distribution of the final tumor volume for all the mice in each treatment group. Highlight any potential outliers in the plot by changing their color and style.
-    ![](Pymaceuticals/Images/study_4drugs_boxplot.png))
+    ![](https://github.com/mugsiemx/matplotlib-challenge/blob/main/Pymaceuticals/Images/study_4drugs_boxplot.png)
 
 Create a Line Plot and a Scatter Plot
 
 - Select a mouse that was treated with Capomulin, and generate a line plot of tumor volume versus time point for that mouse.
-  ![](Pymaceuticals/Images/capomulin_line_plot.png)
+  ![](https://github.com/mugsiemx/matplotlib-challenge/blob/main/Pymaceuticals/Images/capomulin_line_plot.png)
   
 - Generate a scatter plot of tumor volume versus mouse weight for the Capomulin treatment regimen.
   Scatter Chart created with Matplotlib
-  ![](Pymaceuticals/Images/capomulin_scatter_pyplot.png)
+  ![](https://github.com/mugsiemx/matplotlib-challenge/blob/main/Pymaceuticals/Images/capomulin_scatter_pyplot.png)
   
   Scatter Chart created with Pandas
-  ![](Pymaceuticals/Images/capomulin_scatter_pandas.png)
+  ![](Phttps://github.com/mugsiemx/matplotlib-challenge/blob/main/Pymaceuticals/Images/capomulin_scatter_pandas.png)
 
 Calculate Correlation and Regression
 
 - Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment.
 - Plot the linear regression model on top of the previous scatter plot.
-  ![](Pymaceuticals/Images/capomulin_scatter_annotation.png)
+  ![](https://github.com/mugsiemx/matplotlib-challenge/blob/main/Pymaceuticals/Images/capomulin_scatter_annotation.png)
 
 Analyze the data and charts and provide an analysis as follows:
 
