@@ -21,16 +21,20 @@ Report and charting information
 
 - Bar and Pie Charts generated for total number of time points for all mice tested for each drug regimen throughout the study. Set of two each, one created with Pandas and one created with Matplotlib.
 
-Bar Chart created with Matplotlib
+  Bar Chart created with Matplotlib
+  
 ![](https://github.com/mugsiemx/matplotlib-challenge/blob/main/Pymaceuticals/Images/mice_timepoint_numbers_pandas.png) >
 
-Bar Chart created with Pandas
+  Bar Chart created with Pandas
+  
 ![](https://github.com/mugsiemx/matplotlib-challenge/blob/main/Pymaceuticals/Images/mice_timepoint_numbers_pyplot.png) >
 
-Pie Chart created with Matplotlib
+  Pie Chart created with Matplotlib
+  
 ![](https://github.com/mugsiemx/matplotlib-challenge/blob/main/Pymaceuticals/Images/miceSex_pie_pyplot.png) >
 
-Pie Chart created with Pandas
+  Pie Chart created with Pandas
+  
 ![](https://github.com/mugsiemx/matplotlib-challenge/blob/main/Pymaceuticals/Images/miceSex_pie_pandas.png) >
 
 - Calculate the final tumor volume of each mouse across four of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin. Then, calculate the quartiles and IQR, and determine if there are any potential outliers across all four treatment regimens. Use the following substeps:
@@ -47,16 +51,20 @@ Create a Line Plot and a Scatter Plot
   ![](https://github.com/mugsiemx/matplotlib-challenge/blob/main/Pymaceuticals/Images/capomulin_line_plot.png)
   
 - Generate a scatter plot of tumor volume versus mouse weight for the Capomulin treatment regimen.
-  Scatter Chart created with Matplotlib
+
+    Scatter Chart created with Matplotlib
+    
   ![](https://github.com/mugsiemx/matplotlib-challenge/blob/main/Pymaceuticals/Images/capomulin_scatter_pyplot.png)
   
-  Scatter Chart created with Pandas
+    Scatter Chart created with Pandas
+    
   ![](Phttps://github.com/mugsiemx/matplotlib-challenge/blob/main/Pymaceuticals/Images/capomulin_scatter_pandas.png)
 
 Calculate Correlation and Regression
 
 - Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment.
 - Plot the linear regression model on top of the previous scatter plot.
+
   ![](https://github.com/mugsiemx/matplotlib-challenge/blob/main/Pymaceuticals/Images/capomulin_scatter_annotation.png)
 
 Analyze the data and charts and provide an analysis as follows:
