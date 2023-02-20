@@ -23,10 +23,13 @@ Report and charting information
 
 Bar Chart created with Matplotlib
 ![](Pymaceuticals/Images/mice_timepoint_numbers_pyplot.png) >
+
 Bar Chart created with Pandas
 ![](Pymaceuticals/Images/mice_timepoint_numbers_pandas.png >
+
 Pie Chart created with Matplotlib
 ![](Pymaceuticals/Images/miceSex_pie_pyplot.png >
+
 Pie Chart created with Pandas
 ![](Pymaceuticals/Images/miceSex_pie_pandas.png) >
 
@@ -42,9 +45,11 @@ Create a Line Plot and a Scatter Plot
 
 - Select a mouse that was treated with Capomulin, and generate a line plot of tumor volume versus time point for that mouse.
   ![](Pymaceuticals/Images/capomulin_line_plot.png)
+  
 - Generate a scatter plot of tumor volume versus mouse weight for the Capomulin treatment regimen.
   Scatter Chart created with Matplotlib
   ![](Pymaceuticals/Images/capomulin_scatter_pyplot.png)
+  
   Scatter Chart created with Pandas
   ![](Pymaceuticals/Images/capomulin_scatter_pandas.png)
 
